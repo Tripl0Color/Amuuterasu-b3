@@ -19,7 +19,7 @@ tokenwall = "токен для стены сюда давай" # Введи сю
 
 #ПЕРЕМЕННЫЕ КОТОРЫЕ ТРОГАТЬ НЕЛЬЗЯ!11
 a = 0
-aa = 99
+
 
 
 msg = "@muuT3ra$$uu b3 , #FuckAll.Everything. by Tripl_color vk.com/Tripl_color" # Сообщение в коментариях
